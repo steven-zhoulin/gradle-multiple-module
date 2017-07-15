@@ -3,7 +3,7 @@
 **/target/
 **/out/
 **/classes/
-.gralde
+.gradle/
 .idea/
 *.class
 *.iml
